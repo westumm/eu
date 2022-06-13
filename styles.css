@@ -1,0 +1,10 @@
+ @media screen and (min-width: 0px) and (max-width: 700px) {
+      .img-haser2 {    display: block;  }
+      .img-haser3 {    display: none;  }
+    }
+
+    @media screen and (min-width: 701px) and (max-width: 3000px) {
+      .img-haser2 {    display: none;  }
+      .img-haser3 {    display: block;  }
+
+}
